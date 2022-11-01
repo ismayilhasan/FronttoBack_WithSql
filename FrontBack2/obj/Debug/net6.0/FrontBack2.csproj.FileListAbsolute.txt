@@ -1,0 +1,83 @@
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\appsettings.json
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\FrontBack2.exe
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\FrontBack2.deps.json
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\FrontBack2.runtimeconfig.json
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\FrontBack2.dll
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\FrontBack2.pdb
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.RazorAssemblyInfo.cache
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.RazorAssemblyInfo.cs
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\scopedcss\bundle\FrontBack2.styles.css
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.dll
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\refint\FrontBack2.dll
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.pdb
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\FrontBack2.genruntimeconfig.cache
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\obj\Debug\net6.0\ref\FrontBack2.dll
+C:\Users\Ismayil Hasanov\source\repos\FrontBack2\FrontBack2\bin\Debug\net6.0\FrontBack2.staticwebassets.runtime.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\appsettings.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\FrontBack2.staticwebassets.runtime.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\FrontBack2.exe
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\FrontBack2.deps.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\FrontBack2.runtimeconfig.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\FrontBack2.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\FrontBack2.pdb
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.csproj.AssemblyReference.cache
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.AssemblyInfoInputs.cache
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.AssemblyInfo.cs
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.csproj.CoreCompileInputs.cache
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.RazorAssemblyInfo.cache
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.RazorAssemblyInfo.cs
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\scopedcss\bundle\FrontBack2.styles.css
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.csproj.CopyComplete
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\refint\FrontBack2.dll
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.pdb
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\FrontBack2.genruntimeconfig.cache
+C:\Users\Ismayil Hasanov\Desktop\FrontBack2 - Copy\FrontBack2\obj\Debug\net6.0\ref\FrontBack2.dll
